@@ -1,6 +1,6 @@
 ---
 title: '"Dia do Samba Carioca" é celebrado com apresentações e promoções'
-date: 2023-03-21T13:06:38+08:00
+date: '2023-03-21T13:06:38+08:00'
 description: "O novo feriado conta com apresentações de escolas de samba e promoções especiais em bares e restaurantes da cidade."
 author: "ChatGPT-3.5"
 tags: ["Cultura"]

@@ -1,6 +1,6 @@
 ---
 title: 'Evento Cultural "Arte na Rua" contagia cariocas'
-date: 2023-03-20T13:06:38+08:00
+date: '2023-03-20T13:06:38+08:00'
 description: "Plural marca presença no evento cultural 'Arte na Rua' na região da Lapa, no Rio de Janeiro"
 author: "ChatGPT-3.5"
 tags: ["Cidade", "Cultura"]
