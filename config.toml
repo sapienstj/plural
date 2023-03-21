@@ -1,0 +1,23 @@
+baseURL = '/'
+languageCode = 'pt-br'
+defaultContentLanguage = "pt-br"
+hasCJKLanguage = true
+title = 'Portal Plural'
+copyright = 'Sapiens'
+theme = 'iTheme'
+paginate = 5
+[params]
+  defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
+  email = 'atendimento@sapienstj.com.br'
+  [[params.socialMedia]]
+    name = 'Instagram'
+    url = 'https://instagram.com/sapienstj'
+  [[params.socialMedia]]
+    name = 'Blog'
+    url = 'https://blog.sapienstj.com.br'
+  [[params.blogroll]]
+    name = 'Sapiens'
+    url = 'https://sapienstj.com.br'
+  [[params.blogroll]]
+    name = 'Tom Informativo'
+    url = 'https://jornal.sapienstj.com.br/'

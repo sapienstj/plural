@@ -1,0 +1,32 @@
+[home]
+    other = "Início"
+[posts]
+    other = "Notícias"
+[about]
+    other = "Sobre"
+[latestArticles]
+    other = "Mais recentes"
+[moreArticles]
+    other = "Mais notícias"
+[viewArchive]
+    other ="Ver todos"
+[socialMedia]
+    other = "Redes Sociais"
+[related]
+    other = "Veja também"
+[pagination]
+    other = "Páginação"
+[of]
+    other = "de"
+[allTags]
+    other = "Ver todas"
+[author]
+    other = "Autor"
+[postDate]
+    other = "Última alteração"
+[copyright]
+    other = "Direitos"
+[email]
+    other = "Fale conosco em"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
