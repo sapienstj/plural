@@ -16,7 +16,7 @@
                       {{ end }}
                     {{ end }}
                   </span>
-                  <span class="category-eyebrow__date">{{ .Page.Params.Date | time.Format ":date_long"}}</span>
+                  <span class="category-eyebrow__date">{{ dateFormat "2 de January de 2006" .Page.Params.Date }}</span>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@
             <div class="component-content">
               <div class="article-copyright">
                 <p class="content">{{ i18n "author"}}:  {{ .Page.Params.author }} </p>
-                <p class="content">{{ i18n "postDate"}}:  {{ .Page.Params.Date | time.Format ":date_long" }}</p>
+                <p class="content">{{ i18n "postDate"}}:  {{ .Page.Params.Date.Format "2 de January de 2006" }}</p>
               </div>
             </div>
           </div>
