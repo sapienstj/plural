@@ -4,6 +4,7 @@ plain: true
 theme: 'light'
 ---
 Bem-vindo ao Plural, o portal de informações criado para unir e informar um público diverso sobre os assuntos mais comentados do Brasil. Com uma abordagem única, nossa equipe editorial se dedica a trazer conteúdo de qualidade sobre Entretenimento/Cultura, Política e Cidade.
+![Bruno, Gabriel e Xande|inline](/images/time.jpg)
 
 Nós acreditamos que informação é poder, e por isso, nos esforçamos para trazer aos nossos leitores notícias e análises precisas e imparciais. Além disso, o Plural busca sempre estar presente nos eventos mais importantes do país, trazendo coberturas externas exclusivas para os nossos seguidores.
 

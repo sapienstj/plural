@@ -9,7 +9,7 @@ featured: true
 cover: "/images/markdown.webp"
 ---
 
-# Headings
+# Marcações
 
 ```markdown
 # H1
@@ -33,88 +33,52 @@ cover: "/images/markdown.webp"
 ###### H6
 
 
-# Imagens
+# Imagem
 
 ```markdown
-Imagem - Tela toda
+Imagem - Wide
 
-![Tela Toda|wide](/images/carnaval.webp)
+![Imagem Wide|wide](/images/samba.webp)
 
 Imagem - Grande
 
-![Imagem Grande|big](/images/arte.webp)
+![Image Grande|big](/images/carnaval.webp)
 
-Imagem - Parágrafo
+Image - Pequena
 
-![Imagem Parágrafo|inline](/images/carnaval.webp)
+![Image Pequena|inline](/images/markdown.webp)
 ```
 
-![Image Wide|wide](/images/carnaval.webp)
+![Imagem Wide|wide](/images/samba.webp)
 
-![Image Big|big](/images/arte.webp)
+![Imagem Grande|big](/images/carnaval.webp)
 
-![Imagem Parágrafo|inline](/images/carnaval.webp)
+![Image Pequena|inline](/images/markdown.webp)
 
 # Citações
 
 ```markdown
-> You are young and life is long - Pink Floyd
+>Diga que eu só vou voltar depois que me encontrar - Cartola
 
 ```
 
-> You are young and life is long - Pink Floyd
+>Diga que eu só vou voltar depois que me encontrar - Cartola
 
-# Blocos
+# Tipos de Lista
 
-``````markdown
-```javascript
-function say() {
-    const greeting = "I'll see you on the dark side of the moon";
-    console.log(greeting);
-}
-```
-``````
-
-```javascript
-function say() {
-    const greeting = "I'll see you on the dark side of the moon";
-    console.log(greeting);
-}
-```
-
-# Tabela
+## Lista Ordenada
 
 ```markdown
-| Banda               |    País    |            Música |
-| ------------------ | :-----------: | --------------: |
-| Pink Floyd         |     *UK*      |            Time |
-| Led Zeppelin       |    **UK**     |  Immigrant Song |
-| The Rolling Stones |    ~~UK~~     |      Don't Stop |
-| Nirvana            | ~~***USA***~~ | Come as You Are |
+1. Felipe Ret
+2. MC Sapão
+3. Daisy Jones & The Six
 ```
 
-| Banda               |    País    |            Música |
-| ------------------ | :-----------: | --------------: |
-| Pink Floyd         |     *UK*      |            Time |
-| Led Zeppelin       |    **UK**     |  Immigrant Song |
-| The Rolling Stones |    ~~UK~~     |      Don't Stop |
-| Nirvana            | ~~***USA***~~ | Come as You Are |
+1. Felipe Ret
+2. MC Sapão
+3. Daisy Jones & The Six
 
-# Tipos de listas
-
-## Ordenadas
-
-```markdown
-1. Queen
-2. The Velvet Underground
-3. Dire Straits
-```
-
-1. Queen
-2. The Velvet Underground
-3. Dire Straits
-
-## Não-ordenadas
+## Lista Não Ordenada
 
 ```markdown
 - David Bowie
@@ -128,7 +92,6 @@ function say() {
 
 # Emoji
 
-Exemplos de emoji.
 :smile:
 :see_no_evil:
 :smile_cat:
