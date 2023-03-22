@@ -26,7 +26,7 @@ cover: "/images/markdown.webp"
 
 # Imagem
 
-![Imagem Wide|wide](/images/samba.webp)
+![Imagem Wide|wide](/images/arte.webp)
 
 ![Imagem Grande|big](/images/carnaval.webp)
 
