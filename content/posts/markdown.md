@@ -11,15 +11,6 @@ cover: "/images/markdown.webp"
 
 # Marcações
 
-```markdown
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-```
-
 # H1
 
 ## H2
@@ -34,20 +25,6 @@ cover: "/images/markdown.webp"
 
 
 # Imagem
-
-```markdown
-Imagem - Wide
-
-![Imagem Wide|wide](/images/samba.webp)
-
-Imagem - Grande
-
-![Image Grande|big](/images/carnaval.webp)
-
-Image - Pequena
-
-![Image Pequena|inline](/images/markdown.webp)
-```
 
 ![Imagem Wide|wide](/images/samba.webp)
 
